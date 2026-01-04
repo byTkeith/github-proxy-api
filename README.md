@@ -55,6 +55,9 @@ This project was built for a recruitment assessment and demonstrates:
 ./gradlew bootRun
 3.**wait until console shows**
 GithubProxyApplication in 2.473 seconds (process running for 2.97) <==========---> 80% EXECUTING [1m 24s] > :bootRun
+The application is now running at http://localhost:8080
+
+4.Leave this terminal open , the server is running continuously until you stop it with CTRL + C.
 
 Testing the API
 1. Valid GitHub user
