@@ -5,7 +5,7 @@ It retrieves all non-fork repositories for a given GitHub user and lists branche
 
 This project was built for a recruitment assessment and demonstrates:
 
-- Java 25 + Spring Boot 4.0.1
+- Java 25 +Spring Boot 4.0.1
 - Clean Controller → Service → Client architecture
 - Integration tests using WireMock (no mocks for API)
 - Simple, minimal models and classes
